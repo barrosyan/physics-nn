@@ -11,6 +11,7 @@ This repository contains a Python script, "pinn's.py," that demonstrates the use
 * Files
 * Results
 * Applications
+* License
 
 ## Introduction
 Physics-Informed Neural Networks (PINNs) represent a cutting-edge approach that combines neural networks with the principles of physics to solve partial differential equations (PDEs) and other physical systems. These networks are particularly valuable in scenarios where analytical solutions are difficult or impossible to obtain.
@@ -66,3 +67,6 @@ Physics-Informed Neural Networks (PINNs) have a wide range of real-world applica
 **Environmental Science:** Analyzing pollution dispersion and climate modeling.
 **Biomedical Engineering:** Simulating biological processes and medical imaging.
 By combining deep learning with physical principles, PINNs offer promising solutions to complex problems across various domains.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
